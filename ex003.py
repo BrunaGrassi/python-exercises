@@ -10,3 +10,4 @@ print('É todo em letras minúsculas', a.islower())
 print('Está capitalizado? ', a.istitle())
 
 
+
